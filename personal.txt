@@ -1,0 +1,11 @@
+E:
+cd \jermc\Desktop\mblock_base\robot_controller\env\Scripts
+activate
+cd E:\jermc\Desktop\mblock_base\robot_controller
+python main.py
+
+E:
+cd E:\jermc\Desktop\mblock_base\BasestationV2\env\Scripts
+activate
+cd E:\jermc\Desktop\mblock_base\BasestationV2
+python main.py
